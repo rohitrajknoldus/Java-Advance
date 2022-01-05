@@ -1,0 +1,7 @@
+______________________________________________Output________________________________________________________________
+
+We can't call non-static method from the static method.
+Hence, the program will throw compile time error.
+
+
+ Exact Error- java: non-static method methodA() cannot be referenced from a static context

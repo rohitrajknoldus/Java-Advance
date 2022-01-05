@@ -1,0 +1,3 @@
+____________________Output______________________
+               Inside outerMethod
+               Inside innerMethod

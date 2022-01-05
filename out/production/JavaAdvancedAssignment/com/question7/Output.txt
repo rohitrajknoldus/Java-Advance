@@ -1,0 +1,7 @@
+Output:- Exception 'java.lang.ArrayIndexOutOfBoundsException' has been already  caught
+
+
+                                    Explanation of the error:
+     It shows Exception because we already declare the Super class of Exception in the first catch block(Exception e)
+
+     We can handle this exception : if we declare ArrayIndexOutOfBoundsException in first catch block.
